@@ -1,0 +1,8 @@
+{
+  "name": "feloria-group-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node init && node build.js"
+  }
+}
